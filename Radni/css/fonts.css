@@ -1,0 +1,14 @@
+
+.pricing-card_title {
+	font-size: 1.875rem;
+	font-weight: 700;
+}
+
+.pricing-card_description {
+	font-size: 1rem;
+}
+
+.pricing-card_price {
+	font-size: 1.65rem;
+	font-weight: 500;
+}
