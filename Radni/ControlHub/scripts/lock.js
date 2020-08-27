@@ -1,4 +1,4 @@
 
 function unlock() {
-	document.getElementById("main").style.display = "block";	
+	document.getElementById("login").style.display = "none";	
 }

@@ -1,0 +1,8 @@
+[Tue Aug 25 12:35:31.377295 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:57059] AH01797: client denied by server configuration: C:/Users/lobel/Documents/Web/Radni/
+[Tue Aug 25 12:35:31.379301 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:57059] AH01797: client denied by server configuration: D:/Bruno/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Tue Aug 25 12:35:31.481232 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:57059] AH01797: client denied by server configuration: C:/Users/lobel/Documents/Web/Radni/favicon.ico
+[Tue Aug 25 12:35:31.482230 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:57059] AH01797: client denied by server configuration: D:/Bruno/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Tue Aug 25 12:45:18.866583 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:64009] AH01797: client denied by server configuration: C:/Users/lobel/Documents/Web/Radni/
+[Tue Aug 25 12:45:18.867584 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:64009] AH01797: client denied by server configuration: D:/Bruno/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Tue Aug 25 12:45:18.930545 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:64009] AH01797: client denied by server configuration: C:/Users/lobel/Documents/Web/Radni/favicon.ico
+[Tue Aug 25 12:45:18.931544 2020] [access_compat:error] [pid 404:tid 2136] [client ::1:64009] AH01797: client denied by server configuration: D:/Bruno/xampp/apache/error/HTTP_FORBIDDEN.html.var

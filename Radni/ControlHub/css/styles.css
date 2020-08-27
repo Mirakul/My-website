@@ -1,5 +1,7 @@
 
-#main {
-	width: 100vw;
-	display: block;
+#login {
+	margin: 15px; 
+	border: solid grey 1px; 
+	width: min-content; 
+	padding: 10px;
 }
