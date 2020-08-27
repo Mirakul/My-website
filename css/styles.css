@@ -1,0 +1,157 @@
+
+#welcome {
+	/* width: 100vw; */
+	height: 55vh;
+	background-size: cover;
+	position: relative;
+	background-color: #00CED1;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+#welcome .welcome_container {
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.footer {
+	background-size: cover;
+	background-color: #00CED1; 
+	height: 100px;
+	margin-top: 40px;
+	margin-left: -10px;
+}
+
+#header {
+	padding: 30px 0;
+	height: 92px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	transition: all 0.5s;
+	z-index: 997;
+}
+
+
+
+.btnChsService {
+	font-family: "Poppins", sans-serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 13px;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 8px 28px;
+	border-radius: 50px;
+	transition: 0.5s;
+	margin: 10px;
+	border: 2px solid #00CED1;
+	color: #00CED1;
+}
+
+.btnChsService:hover {
+	font-family: "Poppins", sans-serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 13px;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 8px 28px;
+	border-radius: 50px;
+	transition: 0.5s;
+	margin: 10px;
+	border: 2px solid #00CED1;
+	color: #00CED1;
+	text-decoration: none;
+}
+
+.pricing-card_tip {
+	line-height: 0.8rem;
+	margin-left: 8px;
+	margin-top: 5px;
+	font-size: 13.5px;
+}
+
+body {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.topnav .active {
+	background-color: #00CED1;
+}
+
+#navbar {
+	overflow: hidden;
+	background-color: #333;
+	margin: -10px 0 0 -10px;
+	display: flex;
+	justify-content: right;
+}
+
+#navbar a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+}
+
+.sticky + .content {
+	padding-top: 60px;
+}
+
+.pricing-card {
+	
+}
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  height: 100%;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
