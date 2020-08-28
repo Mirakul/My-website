@@ -11,7 +11,10 @@
   </head>
   <body>
     <h3>Toggle available</h3>
-	<input id="available" type="checkbox">Available</input><br>
-	<button onclick="sendAvailability()">Save</button>
+	<form method="POST"><!-- action="\ControlHub\php\main.php">-->
+		<input name="available" type="checkbox">Available</input><br>
+		<input type="submit">
+	</form>
+	<!-- <button onclick="sendAvailability()">Save</button> -->
   </body>
 </html>

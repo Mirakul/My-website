@@ -14,12 +14,12 @@ function navScroll() {
 	}
 }  */
 
-function setup(){
+// function setup(){
 	// var w = document.getElementById("dropdown_posel");
 	// var homebtn = document.getElementById("homebtn");
 	
-	document.getElementById("dropdown_posel").style.width = document.getElementById("homebtn").style.width;
+	// document.getElementById("dropdown_posel").style.width = document.getElementById("homebtn").style.width;
 	
-}
+// }
 
-window.onload = function() {setup()};
+// window.onload = function() {setup()};

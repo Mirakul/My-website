@@ -33,7 +33,12 @@
 		<a class="active">PORTFOLIO</a>
 	</div> 
 	
-	<?php include "C:/Users/lobel/Documents/Web/Radni/ControlHub/php/setAvailable.php" ?>
+	<?php 
+	include "C:/Users/lobel/Documents/Web/Radni/ControlHub/php/main.php";
+	if($available){
+		include "C:/Users/lobel/Documents/Web/Radni/other/not-available.html";
+	} 
+	?>
 	
 	<!-- </header> -->
 	<section style="text-align: center; margin: 40px 0 80px 0;">
